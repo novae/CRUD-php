@@ -19,9 +19,9 @@
 			<table class="table table-striped table-bordered row">
 				<thead>
 					<tr>
-						<th>Name</th>
-						<th>Email Address</th>
-						<th>Mobile Number</th>
+						<th>Nombre</th>
+						<th>Direccion de Correo Electronico</th>
+						<th>Celular</th>
 						<th>Accion</th>
 					</tr>
 				</thead>
